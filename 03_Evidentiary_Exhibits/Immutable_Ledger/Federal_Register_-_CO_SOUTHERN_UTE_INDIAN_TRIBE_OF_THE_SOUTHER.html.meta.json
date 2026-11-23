@@ -1,0 +1,17 @@
+{
+  "url": "https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=CO+SOUTHERN+UTE+INDIAN+TRIBE+OF+THE+SOUTHER",
+  "final_url": "https://www.federalregister.gov/documents/search?conditions%5Bsearch_type_id%5D=3&conditions%5Bterm%5D=CO+SOUTHERN+UTE+INDIAN+TRIBE+OF+THE+SOUTHER",
+  "title": "Federal Register - CO SOUTHERN UTE INDIAN TRIBE OF THE SOUTHER",
+  "fetched_at": "2026-11-23T18:12:11.135173Z",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes": 330269,
+  "sha256": "70173f6039e0f40273b46337fc8967fff0d130c3b4211fa9a7a55aff1856d9f5",
+  "provenance": "direct-http-fetch",
+  "custodian": "GRA-evidence-harvester",
+  "capture_access": "PUBLIC_CAPTURE_UNAUTHENTICATED",
+  "legal_review_status": "PENDING_LEGAL_REVIEW",
+  "note": "Direct harvest capture; pending legal review/authentication.",
+  "substantive": true,
+  "quality_flag": "SUBSTANTIVE_CAPTURE_PENDING_REVIEW"
+}
